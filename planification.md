@@ -10,7 +10,6 @@
 - hero
 - box-container
 - footer
-- 
 
   ## Nomeclature CSS 
  ### Nomenclature BEM 
@@ -47,4 +46,3 @@
 
 ## Conception de la zone libre 
 
- 
