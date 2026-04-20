@@ -12,28 +12,28 @@
 - footer
 
   ## Nomeclature CSS 
-#### quest-card
+### quest-card
 - quest-card__image
 - quest-card__title
 - quest-card__status--completed
 - quest-card__statis--ongoing
-- quest-card_icons
-- quest-card_bar
+- quest-card__icons
+- quest-card__bar
 - #### Player card
-- player card_title
+- player card__title
 - player-card_images
 - player-card_preview
 - player-card_description
 #### header 
--header_title
--header-subtitle
+- header_title
+- header-subtitle
 - header-icons
 #### sidebar
 - sidebar_avatar
 - sidebar_avatar
 - sidebar_name
 - sidebar_nav
-- sidebar-levels
+- sidebarlevels
 - sidebar_link
 - sidebar_link-active
   #### Player card
