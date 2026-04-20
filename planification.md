@@ -15,7 +15,6 @@
 #### quest-card
 - quest-card__image
 - quest-card__title
-- quest-card__status
 - quest-card__status--completed
 - quest-card__statis--ongoing
 - quest-card_icons
@@ -59,8 +58,6 @@
 -  hero
 -  Les cards
 -  footer
-  
-  
 
 ## Stratégie responsive 
 - @media (min-width: 375px) { ... }  Phone 
