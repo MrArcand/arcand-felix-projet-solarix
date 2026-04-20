@@ -4,7 +4,7 @@
 - h2 
 - avatar 
 - Sidebar
-- PLayer car
+- Player car
 - Progess bar
 - buttons/ icons
 - hero
